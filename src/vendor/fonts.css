@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Kamerik-3d';
+  src: url("../fonts/kamerik205-heavy.woff2");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Merriweather-italic-3d';
+  src: url("../fonts/merriweather-regular-italic.woff2");
+}

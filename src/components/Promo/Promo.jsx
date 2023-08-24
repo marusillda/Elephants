@@ -29,7 +29,7 @@ export default function Promo() {
           <div className="promo-layers__item promo-layers__item_layer-6"></div>
         </div>
       </section>
-      <div style={{height: '100vh'}}></div>
+      {/*<div style={{height: '100vh'}}></div>*/}
     </>
   );
 }

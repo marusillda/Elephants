@@ -1,5 +1,7 @@
 import './App.css';
 import Promo from "../Promo/Promo";
+import AboutProblem from "../AboutProblem/AboutProblem";
+import Cards from "../Cards/Cards";
 
 function App() {
   return (
@@ -7,6 +9,8 @@ function App() {
       <header>
       </header>
       <Promo/>
+      <AboutProblem/>
+      <Cards/>
     </div>
   );
 }

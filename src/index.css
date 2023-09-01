@@ -24,6 +24,7 @@ code {
   box-sizing: border-box;
 }
 
+/*css-переменные   --index - для адаптивного изменения размера элементов*/
 :root {
   --move-x: 0deg;
   --move-y: 0deg;

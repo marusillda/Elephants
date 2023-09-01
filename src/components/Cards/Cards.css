@@ -64,7 +64,7 @@
   .card__heading-marker {
     padding: calc(var(--index) * .35);
     font-size: calc(var(--index) * .7);
-    top: 2px;
+    top: -2px;
     left: -10px;
   }
 }

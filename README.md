@@ -1,4 +1,4 @@
-# Проект: Elephants
+# Проект: Elephants с 3D эффектом Parallax
 
 Pet-проект о проблеме уничтожения слонов с 3D эффектом Parallax
 

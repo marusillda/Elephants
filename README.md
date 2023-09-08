@@ -2,7 +2,7 @@
 
 Pet-проект о проблеме уничтожения слонов с 3D эффектом Parallax
 
-## [Демонстрация сайта]()
+## [Демонстрация сайта](https://marusillda.github.io/Elephants/)
 
 ![Превью проекта](./src/images/elephants-preview.JPG)
 
